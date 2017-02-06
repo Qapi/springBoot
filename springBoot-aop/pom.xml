@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <name>springBoot-aop</name>
-    <description>Spring Boot project</description>
+    <description>Spring Boot project1</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
