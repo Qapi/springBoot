@@ -18,6 +18,6 @@ public class UserController {
     @ResponseBody
     public String user(){
         User user = userMapper.findUserByName("王伟");
-        return user.getName()+"-----"+user.getAge();
+        return user.getName()+"------"+user.getAge();
     }
 }
