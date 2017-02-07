@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69779e54-2c61-482c-91c2-6a3f608f8a35" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" afterPath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springboot-mybatis/src/main/java/org/shenlan/web/UserController.java" afterPath="$PROJECT_DIR$/springboot-mybatis/src/main/java/org/shenlan/web/UserController.java" />
     </list>
     <ignored path="springBoot.iws" />
@@ -1131,8 +1129,16 @@
       <workItem from="1473831687968" duration="3695000" />
       <workItem from="1474161805438" duration="11561000" />
       <workItem from="1486461853206" duration="728000" />
-      <workItem from="1486463074741" duration="36000" />
+      <workItem from="1486463074741" duration="198000" />
     </task>
+    <task id="LOCAL-00001" summary="1、测试GIT功能">
+      <created>1486463156893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1486463156893</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1168,7 +1174,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83012000" />
+    <option name="totallyTimeSpent" value="83174000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="922" extended-state="6" />
@@ -1225,6 +1231,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1、测试GIT功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、测试GIT功能" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1493,6 +1503,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
